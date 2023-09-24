@@ -28,11 +28,6 @@ defaults:
       type: "members"
     values:
       layout: member
-  # markdown files in /_advisory
-  - scope:
-      type: "advisory"
-    values:
-      layout: member
   # markdown files in /_posts
   - scope:
       type: "posts"

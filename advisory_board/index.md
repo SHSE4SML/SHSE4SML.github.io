@@ -11,10 +11,10 @@ Meet our PIs.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ab" %}
 
 
-{% include section.html background="images/background.jpg" dark=true %}
+<!-- {% include section.html background="images/background.jpg" dark=true %}
 
 Meet our team members.
 
@@ -28,6 +28,6 @@ Meet our team members.
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %} -->
 
-{% endcapture %}
+{% endcapture %} -->
 
 {% include grid.html style="square" content=content %}

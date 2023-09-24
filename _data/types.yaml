@@ -1,5 +1,10 @@
 # map general type to default/fallback icon, text, etc.
 
+# advisory_board
+ab:
+  icon: fa-solid fa-microscope
+  description: advisor
+
 # team member roles
 
 pi:
