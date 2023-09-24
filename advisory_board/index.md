@@ -11,7 +11,7 @@ Meet our PIs.
 
 {% include section.html %}
 
-{% include list.html data="advisory" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: pi" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -20,7 +20,7 @@ Meet our team members.
 
 {% include section.html %}
 
-{% include list.html data="advisory" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% capture content %}
 
