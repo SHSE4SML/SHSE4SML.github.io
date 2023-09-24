@@ -36,6 +36,29 @@ Meet our team from University of Virginia, University of Maryland College Park a
 
 {% capture text %}
 
+Meet our advisory board.
+
+{%
+  include button.html
+  link="advisory"
+  text="Meet our advisory board"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="advisory"
+  title="Our advisory board"
+  text=text
+%}
+
+{% capture text %}
+
 Browse our research description and software.
 
 {%
