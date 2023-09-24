@@ -21,6 +21,6 @@ The Bridge platform will develop a unified hardware and software infrastructure 
 
 {% include section.html %}
 
-## More
+<!-- ## More
 
-{% include list.html component="card" data="research" filters="group: " style="small" %}
+{% include list.html component="card" data="research" filters="group: " style="small" %} -->
