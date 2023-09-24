@@ -41,7 +41,7 @@ Meet our Advisory Board.
 {%
   include button.html
   link="advisory_board"
-  text="Meet our advisory board"
+  text="Meet our Advisory Board"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -53,7 +53,7 @@ Meet our Advisory Board.
   include feature.html
   image="images/photo.jpg"
   link="advisory_board"
-  title="Our advisory board"
+  title="Our Advisory Board"
   text=text
 %}
 
