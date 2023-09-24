@@ -2,6 +2,7 @@
 name: Carl Yang
 image: images/photo.jpg
 role: ab
+description: Emory
 # aliases:
 #   - J. Smith
 #   - J Smith

@@ -2,6 +2,7 @@
 name: Salman Avestimehr
 image: images/photo.jpg
 role: ab
+description: USC
 # aliases:
 #   - J. Smith
 #   - J Smith

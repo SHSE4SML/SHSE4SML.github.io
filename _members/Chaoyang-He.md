@@ -1,7 +1,7 @@
 ---
 name: Chaoyang He
 image: images/photo.jpg
-role: ab
+description: FedML
 # aliases:
 #   - J. Smith
 #   - J Smith
