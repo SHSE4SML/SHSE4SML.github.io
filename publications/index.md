@@ -10,22 +10,6 @@ nav:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-<!-- {% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %} -->
-
 Chuanhao Li, Huazheng Wang, Mengdi Wang and Hongning Wang. Communication Efficient Distributed Learning for Kernelized Contextual Bandits. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS'2022), 2022.
 
 Chuanhao Li and Hongning Wang. Communication Efficient Federated Learning for Generalized Linear Bandits. Thirtysixth Conference on Neural Information Processing Systems (NeurIPS'2022), 2022.
