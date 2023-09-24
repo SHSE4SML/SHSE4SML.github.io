@@ -7,27 +7,27 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Advisory Board
 
-Meet our advisors.
+<!-- Meet our advisors. -->
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: ab" %}
 
 
-{% include section.html background="images/background.jpg" dark=true %}
+<!-- {% include section.html background="images/background.jpg" dark=true %} -->
 
 <!-- Meet our team members. -->
 
-{% include section.html %}
+<!-- {% include section.html %} -->
 
 <!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 
-{% capture content %}
+<!-- {% capture content %} -->
 
 <!-- {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %} -->
 
-{% endcapture %}
+<!-- {% endcapture %} -->
 
 {% include grid.html style="square" content=content %}
