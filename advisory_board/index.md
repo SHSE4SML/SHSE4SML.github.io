@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Advisory Board
 
-Meet our PIs.
+Meet our advisors.
 
 {% include section.html %}
 
@@ -26,8 +26,8 @@ Meet our PIs.
 
 <!-- {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %} -->
 
-{% endcapture %} -->
+{% endcapture %}
 
 {% include grid.html style="square" content=content %}
