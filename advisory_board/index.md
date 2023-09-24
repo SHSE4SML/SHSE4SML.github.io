@@ -13,8 +13,9 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: dinesh" %}
 {% include list.html data="members" component="portrait" filters="role: jian" %}
-
-{% include list.html data="members" component="portrait" filters="role: ab" %}
+{% include list.html data="members" component="portrait" filters="role: salman" %}
+{% include list.html data="members" component="portrait" filters="role: carl" %}
+{% include list.html data="members" component="portrait" filters="role: chaoyang" %}
 
 {% include section.html %}
 
