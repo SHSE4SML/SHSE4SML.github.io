@@ -1,11 +1,11 @@
 ---
-title: AdvisoryBoard
+title: Advisory
 nav:
   order: 2
   tooltip: About our Advisory Board
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Advisory Board
 
 Meet our PIs.
 
