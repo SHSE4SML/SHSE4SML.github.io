@@ -36,7 +36,7 @@ Meet our team from University of Virginia, University of Maryland College Park a
 
 {% capture text %}
 
-Browse our research description.
+Browse our research description and software.
 
 {%
   include button.html
