@@ -16,4 +16,4 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: ab" %}
 
-{% include grid.html style="square" content=content %}
+<!-- {% include grid.html style="square" content=content %} -->
