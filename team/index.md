@@ -20,7 +20,8 @@ Meet our team members.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: phd, md" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: md" %}
 
 {% capture content %}
 
