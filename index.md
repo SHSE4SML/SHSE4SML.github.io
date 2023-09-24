@@ -36,7 +36,7 @@ Meet our team from University of Virginia, University of Maryland College Park a
 
 {% capture text %}
 
-Meet our Advisory Board.
+Meet our advisory board.
 
 {%
   include button.html
