@@ -1,5 +1,5 @@
 - title: FL_platform
-  subtitle: A flexible FL platform with GUI
+  # subtitle: A flexible FL platform with GUI
   group: featured
   image: images/photo.jpg
   link: https://github.com/xidongwu/FL_platform
