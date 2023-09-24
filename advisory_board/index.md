@@ -11,6 +11,9 @@ nav:
 
 {% include section.html %}
 
+{% include list.html data="members" component="portrait" filters="role: dinesh" %}
+{% include list.html data="members" component="portrait" filters="role: jian" %}
+
 {% include list.html data="members" component="portrait" filters="role: ab" %}
 
 {% include grid.html style="square" content=content %}

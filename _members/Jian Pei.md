@@ -1,7 +1,7 @@
 ---
 name: Jian Pei
 image: images/photo.jpg
-role: ab
+role: jian
 description: Duke
 # aliases:
 #   - J. Smith

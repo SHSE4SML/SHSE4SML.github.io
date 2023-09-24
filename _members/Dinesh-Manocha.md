@@ -1,7 +1,7 @@
 ---
 name: Dinesh Manocha
 image: images/photo.jpg
-role: ab
+role: dinesh
 description: UMD
 # aliases:
 #   - J. Smith
