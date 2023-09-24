@@ -6,13 +6,13 @@ header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
-links:
-  email: contact@SHSE4SML.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: SHSE4SML
-  twitter: SHSE4SML
-  youtube: SHSE4SML
+# links:
+#   email: contact@SHSE4SML.com
+#   orcid: 0000-0001-8713-9213
+#   google-scholar: ETJoidYAAAAJ
+#   github: SHSE4SML
+#   twitter: SHSE4SML
+#   youtube: SHSE4SML
 
 ### jekyll settings
 
