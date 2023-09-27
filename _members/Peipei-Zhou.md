@@ -1,5 +1,5 @@
 ---
-name: Peipei-Zhou
+name: Peipei Zhou
 image: images/photo.jpg
 role: phd
 # aliases:

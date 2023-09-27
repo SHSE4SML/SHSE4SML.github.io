@@ -1,5 +1,5 @@
 ---
-name: Heng Hunag
+name: Heng Huang
 image: images/photo.jpg
 role: pi
 # aliases:
