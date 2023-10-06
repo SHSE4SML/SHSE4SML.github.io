@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="fa-solid fa-book-open" %}Publications
 
 Chuanhao Li, Huazheng Wang, Mengdi Wang and Hongning Wang. Communication Efficient Distributed Learning for Kernelized Contextual Bandits. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS'2022), 2022.
 
