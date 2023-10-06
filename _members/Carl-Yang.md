@@ -1,6 +1,6 @@
 ---
 name: Carl Yang
-image: images/photo.jpg
+image: images/CarlYang.png
 role: carl
 description: Emory
 # aliases:

@@ -1,6 +1,6 @@
 ---
 name: Tianhao Wang
-image: images/photo.jpg
+image: images/TianhaoWang.jpg
 role: phd
 # aliases:
 #   - J. Smith

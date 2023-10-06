@@ -1,6 +1,6 @@
 ---
 name: Dinesh Manocha
-image: images/photo.jpg
+image: images/DineshManocha.jpg
 role: dinesh
 description: UMD
 # aliases:

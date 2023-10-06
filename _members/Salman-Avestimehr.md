@@ -1,6 +1,6 @@
 ---
 name: Salman Avestimehr
-image: images/photo.jpg
+image: images/SalmanAvestimehr.png
 role: salman
 description: USC
 # aliases:

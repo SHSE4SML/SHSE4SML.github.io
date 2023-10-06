@@ -1,6 +1,6 @@
 ---
 name: Hongning Wang
-image: images/photo.jpg
+image: images/HongningWang.jpg
 role: phd
 # aliases:
 #   - J. Smith

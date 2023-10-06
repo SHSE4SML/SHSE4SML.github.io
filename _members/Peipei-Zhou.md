@@ -1,6 +1,6 @@
 ---
 name: Peipei Zhou
-image: images/photo.jpg
+image: images/PeipeiZhou.jpg
 role: phd
 # aliases:
 #   - J. Smith

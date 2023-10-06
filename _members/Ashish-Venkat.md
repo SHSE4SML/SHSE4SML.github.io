@@ -1,6 +1,6 @@
 ---
 name: Ashish Venkat
-image: images/photo.jpg
+image: images/AshishVenkat.jpg
 role: phd
 # aliases:
 #   - J. Smith

@@ -1,6 +1,6 @@
 ---
 name: Mehdi Boukhechba
-image: images/photo.jpg
+image: images/MehdiBoukhechba.jpg
 role: phd
 # aliases:
 #   - J. Smith

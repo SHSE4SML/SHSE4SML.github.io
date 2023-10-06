@@ -1,6 +1,6 @@
 ---
 name: Chaoyang He
-image: images/photo.jpg
+image: images/ChaoyangHe.png
 role: chaoyang
 description: FedML
 # aliases:

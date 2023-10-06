@@ -1,6 +1,6 @@
 ---
 name: Jian Pei
-image: images/photo.jpg
+image: images/JianPei.jpg
 role: jian
 description: Duke
 # aliases:

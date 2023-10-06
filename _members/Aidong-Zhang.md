@@ -1,6 +1,6 @@
 ---
 name: Aidong Zhang
-image: images/photo.jpg
+image: images/AidongZhang.jpg
 role: pi
 # aliases:
 #   - J. Smith
