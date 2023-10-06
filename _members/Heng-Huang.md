@@ -1,6 +1,6 @@
 ---
 name: Heng Huang
-image: images/photo.jpg
+image: images/HengHuang.jpg
 role: pi
 # aliases:
 #   - J. Smith
